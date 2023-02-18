@@ -1,7 +1,14 @@
 # JS_lesson_2
 
 1) Function Expression, Function Declaration и стрелочные функции <br>
-2) 
+
+2)
+3)
+4)
+5)
+6)
+7) Область видимости вне любых функций называется глобальной
+
 8) function showX(x) <br>
   { 
     return x; <br>
