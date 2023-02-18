@@ -1,5 +1,7 @@
 # JS_lesson_2
 
+1) Function Expression, Function Declaration и стрелочные функции <br>
+2) 
 8) function showX(x) <br>
   { 
     return x; <br>
@@ -14,5 +16,4 @@
 10) console.log(foo); //undefined <br>
 
    let foo = "Cat"; <br>
-
-    console.log(foo); // Cat
+   console.log(foo); // Cat
