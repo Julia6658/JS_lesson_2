@@ -3,20 +3,21 @@
 1) Function Expression, Function Declaration и стрелочные функции <br>
 
 2) Примеры вызова: <br>
-  function sayHiOne() {            // Function Declaration
-    console.log( "Hi!" );
-  }
+   // Function Declaration <br>
+    function sayHiOne() {    <br>         
+      console.log( "Hi!" ); <br>
+    }
+   // Function Expression <br>
+    let sayHiTwo = function() {     
+      console.log( "Hi!" ); 
+    };
+   // Стрелочная функция <br>
+    let sayHiThree = () => console.log("Hi!");    
 
-  let sayHiTwo = function() {     // Function Expression <br>
-    console.log( "Hi!" ); 
-  };
 
-  let sayHiThree = () => console.log("Hi!");     // Стрелочная функция <br>
-
-
-  sayHiOne(); <br>
-  sayHiTwo(); <br>
-  sayHiThree();
+    sayHiOne(); <br>
+    sayHiTwo(); <br>
+    sayHiThree();
 3)
 4)
 5)
