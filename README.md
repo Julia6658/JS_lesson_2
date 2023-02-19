@@ -2,7 +2,21 @@
 
 1) Function Expression, Function Declaration и стрелочные функции <br>
 
-2)
+2) Примеры вызова: <br>
+  function sayHiOne() {            // Function Declaration
+    console.log( "Hi!" );
+  }
+
+  let sayHiTwo = function() {     // Function Expression <br>
+    console.log( "Hi!" ); 
+  };
+
+  let sayHiThree = () => console.log("Hi!");     // Стрелочная функция <br>
+
+
+  sayHiOne(); <br>
+  sayHiTwo(); <br>
+  sayHiThree();
 3)
 4)
 5)
