@@ -4,12 +4,12 @@
 
 2) Примеры вызова: <br>
    // Function Declaration <br>
-    function sayHiOne() {    <br>         
-      console.log( "Hi!" ); <br>
+    function sayHiOne() {         
+      console.log( "Hi!" ); 
     } <br> 
    // Function Expression <br>
-    let sayHiTwo = function() {   <br>    
-      console.log( "Hi!" );  <br> 
+    let sayHiTwo = function() {     
+      console.log( "Hi!" );  
     }; <br> 
    // Стрелочная функция <br>
     let sayHiThree = () => console.log("Hi!"); <br>
