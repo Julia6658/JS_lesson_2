@@ -6,11 +6,11 @@
    // Function Declaration <br>
     function sayHiOne() {    <br>         
       console.log( "Hi!" ); <br>
-    }
+    } <br> 
    // Function Expression <br>
-    let sayHiTwo = function() {     
-      console.log( "Hi!" ); 
-    };
+    let sayHiTwo = function() {   <br>    
+      console.log( "Hi!" );  <br> 
+    }; <br> 
    // Стрелочная функция <br>
     let sayHiThree = () => console.log("Hi!"); <br>
     sayHiOne(); <br>
